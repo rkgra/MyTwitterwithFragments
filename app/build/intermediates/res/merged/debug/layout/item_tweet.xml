@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:id="@+id/ivProfileImage"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#ff29b4"
+        android:scaleType="fitCenter"
+        android:layout_marginRight="5dp"
+
+       />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/tvBody"
+
+
+        android:layout_alignBottom="@+id/ivProfileImage"
+        android:layout_toRightOf="@+id/ivProfileImage"
+        android:layout_marginTop="10dp"
+
+        android:maxLines="3"
+        android:ellipsize="end" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_toRightOf="@id/ivProfileImage"
+
+
+        android:weightSum="1">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ram"
+            android:id="@+id/tvUserName"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/ivProfileImage"
+            android:layout_marginLeft="5dp"
+
+            android:layout_above="@+id/tvBody"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="false"
+            android:gravity="left" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time"
+            android:id="@+id/tvCreatedAt"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/tvUserName"
+            android:layout_alignBottom="@+id/tvUserName"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+
+            android:gravity="right|end"
+            android:layout_weight="0.91" />
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/src/main/res/layout/item_tweet.xml -->

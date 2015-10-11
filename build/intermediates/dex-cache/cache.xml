@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/pre-dexed/debug/classes-8e0a4d3da2282c4fdc998c8446d46ae99b9c05db.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-155ce54be3f89eb1757c60764349636a0861051e.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-52e299eef7d0ccf57d0e2b3c00489de508b49d70.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/pre-dexed/debug/classes-8a9f7fdc84f6e65866b0f5943cc3992ba745c7c9.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-f7a8d370c9e2c7def3869c61ab795b7d3f39f610.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/pre-dexed/debug/classes-a93ebcd04c726a036e6d360b5b2f55cf60c47efc.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-aac62c66fbb008508a05e694ca7e890d8bfcfa1d.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/pre-dexed/debug/codepath-utils-0f4aaf2b91b26f3e88dd5cbf65210da62f4841b4.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-5622e46424afe8134c0ec9a134f6878ef63541d1.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-5789bf2e422f22f2b5cf5fe6e20a0939f22a896d.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.8/77bbfe240e437ecb396d982afa0d3bd4f9090ba7/android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8-5d0da2dc5f14424999894f2a9e3f919258329767.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-e317c9823c9d39c450cb22a518ee54387f0b9ced.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-28eb9060a139c463d5c48bcfecf69420a01321c4.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-da7c49e6fd7d5a1ee49d9840cd3505f19e0dd482.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-e6fab499f3385c0f89e0ee9aa3a179b3a828d01d.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/twitter_week4/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-c3955e70c8bf60db90f332c76caaaf932820d034.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-3200d081185e384d2e4d9d1e9e999e1f583858d3.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-c7f840eb620a06864d5f1ce7435b6a03fa354442.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-88d23381a554e60d9892538f664e255967b00555.jar" />
+    </item>
+    <item
+        jar="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/rgauta01/Documents/My/study/android/project/MySimpleTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-43f2702a3f0c7b6b13e8ea39c9174a4ac51fdbe0.jar" />
+    </item>
+
+</items>
